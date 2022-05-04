@@ -12,6 +12,4 @@ Github:
 	git branch -M main
 	git remote add origin https://github.com/SelvinToledo/MakeFile.git
 	git push -u origin main
-	$(Usuario)
-	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
 
